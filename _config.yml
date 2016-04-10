@@ -1,0 +1,14 @@
+layout_spectrum: 0.03371333
+typography_spectrum: 0.05146524
+color:
+  saturation: 0.5652157
+  lightness: 0.7551665
+  brandStrength: 0.456635
+  rhythmicContrast: 0.8761887
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Arc2Shea
