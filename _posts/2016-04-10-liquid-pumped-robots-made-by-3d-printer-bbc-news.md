@@ -17,8 +17,8 @@ keywords:
   - organisations
   - lab
 description: "Robotics researchers in the US have developed a new technique to build working robots using a 3D printer. The work was carried out by at MIT's Computer Science and Artificial Intelligence Lab and involves printing solid and liquid materials simultaneously."
-datePublished: '2016-04-11T00:31:21.085Z'
-dateModified: '2016-04-11T00:24:11.522Z'
+datePublished: '2016-04-11T01:07:56.817Z'
+dateModified: '2016-04-11T00:31:30.375Z'
 author: []
 related: []
 app_links: []
