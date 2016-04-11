@@ -4,21 +4,14 @@
         <description><![CDATA[Custom Parts]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 00:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 01:07:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Liquid-pumped robots made by 3D printer - BBC News]]></title>
             <description><![CDATA[<article><h1>Liquid-pumped robots made by 3D printer - BBC News</h1><p>Robotics researchers in the US have developed a new technique to build working robots using a 3D printer. The work was carried out by at MIT's Computer Science and Artificial Intelligence Lab and involves printing solid and liquid materials simultaneously.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c0f86ac4aba8d144fcec069a4c8cd5a42eb3cf.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/technology-35981694</link>
             <guid isPermaLink="false">bcf8bee8-c1fe-4d5b-ba26-302f9826cf7c</guid>
-            <pubDate>Mon, 11 Apr 2016 00:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA's 3D-Printed Rocket Parts Actually Work]]></title>
-            <description><![CDATA[<article><h1>NASA's 3D-Printed Rocket Parts Actually Work</h1><p>Today, NASA tested a 3D-printed turbopump, one that was put together with 45 percent fewer parts than pumps made any other way. This obviously saves time and money, but come on...NASA is slowly 3D printing an entire freaking rocket. That's cool. NASA referred to the rocket turbopump as "one of the most complex, 3D-printed rocket engine parts ever made."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac7f035ddfdc477281e5e0157766637fc843693a.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2015/08/26/nasas-3d-printed-rocket-parts-actually-work/</link>
-            <guid isPermaLink="false">62366faa-b987-4b96-a694-9220bb04d60c</guid>
-            <pubDate>Mon, 11 Apr 2016 00:13:03 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 01:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
