@@ -4,21 +4,14 @@
         <description><![CDATA[Custom Parts]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 01:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 01:11:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Chattanooga startup wants to 3D print your future house</p>]]></description>
             <link>https://thegrid.ai/arc2shea/chattanooga-startup-wants-to-3d-print-your-future-house/index.html</link>
-            <guid isPermaLink="false">e9d402cc-a7de-4726-aad9-b129e67d325a</guid>
+            <guid isPermaLink="false">935d817b-eb51-4c25-abca-17bf77f41192</guid>
             <pubDate>Mon, 11 Apr 2016 01:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liquid-pumped robots made by 3D printer - BBC News]]></title>
-            <description><![CDATA[<article><h1>Liquid-pumped robots made by 3D printer - BBC News</h1><p>Robotics researchers in the US have developed a new technique to build working robots using a 3D printer. The work was carried out by at MIT's Computer Science and Artificial Intelligence Lab and involves printing solid and liquid materials simultaneously.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c0f86ac4aba8d144fcec069a4c8cd5a42eb3cf.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/technology-35981694</link>
-            <guid isPermaLink="false">bcf8bee8-c1fe-4d5b-ba26-302f9826cf7c</guid>
-            <pubDate>Mon, 11 Apr 2016 01:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
