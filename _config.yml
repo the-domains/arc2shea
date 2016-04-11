@@ -1,6 +1,6 @@
 name: Arc2Shea
 favicon: null
-layout_spectrum: 0.03371333
+layout_spectrum: 1
 typography_spectrum: 0.05146524
 title: Custom Parts
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 1
+  brandStrength: 0.375
   lightness: 1
   saturation: 0
   rhythmicContrast: 0
