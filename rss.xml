@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Arc2Shea]]></title>
         <description><![CDATA[Arc2Shea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 00:50:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 01:38:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELL Building Standard Officially Launches]]></title>
+            <description><![CDATA[<article><h1>WELL Building Standard Officially Launches</h1><p>Enhancing people's health and wellness in the built environment is the focus of the WELL standard from the International Well Building Institute.By Tristan Roberts and Paula MeltonThe International Well Building Institute (IWBI) officially launched the WELL Building Standard at its inaugural WELL Building Symposium in New Orleans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7516a8a7e0d4e49cb902b674c0e7fe5899a2518f.png"></article>]]></description>
+            <link>https://www2.buildinggreen.com/article/well-building-standard-officially-launches?mc_cid=79002cb19c&amp;mc_eid=299f673c82</link>
+            <guid isPermaLink="false">966277e6-ee96-4f6a-a014-cc3810f0e583</guid>
+            <pubDate>Tue, 26 Apr 2016 01:36:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
             <description><![CDATA[<article><h1>A 170-Mile Trek Across the Arctic to Highlight Climate Change</h1><p>University of Minnesota professor Aaron Doering joins Lunch Break with Tanya Rivero from Arctic Bay, Canada in the midst of a 170-mile journey across Canada and the Arctic to promote awareness of rapid environmental changes facing the region. Photo: Aaron Doering / LT Media Lab</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0fc048d8cb274d2e47553eff806b551eef17ee0.jpg"></article>]]></description>
