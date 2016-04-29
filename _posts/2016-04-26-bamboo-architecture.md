@@ -1,23 +1,31 @@
 ---
-description: ''
-author: []
-datePublished: '2016-04-26T01:58:40.980Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-04-26T01:27:54.792Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431'
+inLanguage: null
+keywords: []
+description: "BALI, Indonesia-How do you build a future out of grass? On the Indonesian island of Bali, one organization has set out to do just that. Ibuku, an architecture and furniture design firm based outside of Denpasar, Bali's capital, is using Dendrocalamus asper bamboo-or petung in Balinese-to construct Green Village.I had the chance to visit this innovative new community while on leave from my Fulbright National Geographic Fellowship in Japan."
+datePublished: '2016-04-29T03:11:04.592Z'
+dateModified: '2016-04-29T03:03:45.887Z'
+author:
+  - name: Ari Beser
+    url: ''
+    avatar: {}
 title: Bamboo Architecture
-starred: false
 sourcePath: _posts/2016-04-26-bamboo-architecture.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: bamboo-architecture/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Bamboo Architecture
 
-<article style=""><h1>In Bali, Bamboo Architecture Offers Model for a Sustainable Future</h1><p>BALI, Indonesia-How do you build a future out of grass? On the Indonesian island of Bali, one organization has set out to do just that. Ibuku, an architecture and furniture design firm based outside of Denpasar, Bali's capital, is using Dendrocalamus asper bamboo-or petung in Balinese-to construct Green Village.I had the chance to visit this innovative new community while on leave from my Fulbright National Geographic Fellowship in Japan.</p><img src="http://voices.nationalgeographic.com/files/2016/02/Ibuku3.jpg" /></article>
+<article style=""><h1>In Bali, Bamboo Architecture Offers Model for a Sustainable Future</h1><p>BALI, Indonesia-How do you build a future out of grass? On the Indonesian island of Bali, one organization has set out to do just that. Ibuku, an architecture and furniture design firm based outside of Denpasar, Bali's capital, is using Dendrocalamus asper bamboo-or petung in Balinese-to construct Green Village.I had the chance to visit this innovative new community while on leave from my Fulbright National Geographic Fellowship in Japan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d768533aef3e7b674bfbe2813c6313caecf5a28.jpg" /></article>
