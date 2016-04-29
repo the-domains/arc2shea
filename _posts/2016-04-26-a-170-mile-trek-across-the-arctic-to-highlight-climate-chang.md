@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.wsj.com'
-  name: Wsj
-  favicon: 'http://www.wsj.com/favicon.ico'
-  domain: www.wsj.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wsj.com/video/a-170-mile-trek-across-the-arctic-to-highlight-climate-change/1B17997C-C416-4D8D-BE2F-8AD9AD95ED2E.html'
+inLanguage: en
 keywords:
   - photo
   - rivero
@@ -18,7 +16,10 @@ keywords:
   - belsky
   - 7-eleven
 description: 'University of Minnesota professor Aaron Doering joins Lunch Break with Tanya Rivero from Arctic Bay, Canada in the midst of a 170-mile journey across Canada and the Arctic to promote awareness of rapid environmental changes facing the region. Photo: Aaron Doering / LT Media Lab'
-inLanguage: en
+datePublished: '2016-04-29T03:11:19.500Z'
+dateModified: '2016-04-29T03:04:16.211Z'
+author: []
+related: []
 app_links:
   - url: 'wsjtv://config/?playvideoid=1B17997C-C416-4D8D-BE2F-8AD9AD95ED2E'
     namespace: twitter
@@ -28,16 +29,16 @@ app_links:
     namespace: twitter
     type: iphone
     id: '456927730'
-isBasedOnUrl: 'http://www.wsj.com/video/a-170-mile-trek-across-the-arctic-to-highlight-climate-change/1B17997C-C416-4D8D-BE2F-8AD9AD95ED2E.html'
 title: A 170-Mile Trek Across the Arctic to Highlight Climate Change
-datePublished: '2016-04-26T00:50:21.302Z'
-dateModified: '2016-04-20T02:13:08.460Z'
-starred: false
 sourcePath: _posts/2016-04-26-a-170-mile-trek-across-the-arctic-to-highlight-climate-chang.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Wsj
+  domain: www.wsj.com
+  url: 'http://www.wsj.com'
+  favicon: 'http://www.wsj.com/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
