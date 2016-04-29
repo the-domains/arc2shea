@@ -1,6 +1,6 @@
 name: Arc2Shea
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75711
 typography_spectrum: 0.79397
 title: Arc2Shea
 cta:
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 1
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
