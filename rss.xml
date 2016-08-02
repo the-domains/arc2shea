@@ -4,7 +4,7 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 03:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 03:40:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431</link>
             <guid isPermaLink="false">3082fd87-9f94-4d4e-8773-be6e82c7899e</guid>
             <pubDate>Fri, 29 Apr 2016 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla and SolarCity Agree to $2.6 Billion Merger Deal]]></title>
+            <description><![CDATA[<article><h1>Tesla and SolarCity Agree to $2.6 Billion Merger Deal</h1><p>Tesla Motors Inc. on Monday said it had reached a deal to buy SolarCity Corp., combining Elon Musk's electric-car and solar-energy companies. The all-stock deal values SolarCity at about $2.6 billion. SolarCity stockholders will receive 0.11 shares of Tesla for each SolarCity share, valuing them at $25.83 apiece, according to Friday's closing...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d686e7c529b1fa87969859ab8a0ac7/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-PE809_0801te_G_20160801071722.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/tesla-and-solarcity-agree-to-2-6-billion-merger-deal-1470050724?mod=LS1</link>
+            <guid isPermaLink="false">86c49f84-1353-4e3c-ad74-b6b732820230</guid>
+            <pubDate>Tue, 02 Aug 2016 03:40:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Solar-Powered Engine Can Be Made With A 3D Printer]]></title>
@@ -68,13 +75,6 @@
             <link>http://3tags.org/article/australian-researchers-develop-breakthrough-in-solar-technology</link>
             <guid isPermaLink="false">e5b10c0a-bf64-4fa2-8ede-9ff2a17b3cc8</guid>
             <pubDate>Fri, 29 Apr 2016 03:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London's concrete quarter]]></title>
-            <description><![CDATA[<article><h1>London's concrete quarter</h1><p>Source: John Sturrock The transformation of King's Cross includes some of the UK's most sustainable office buildings - and concrete is key to all of them View the latest Concrete Quarterly in full as a digital edition >>> Back to the Concrete Quarterly home page >>> Since the completion of the Olympic Park, King's Cross has had few rivals for its claim to be London's - and arguably the UK's - biggest building site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bfc3d89cf7aebc7d6c80b8327450344cb89b252.jpg"></article>]]></description>
-            <link>http://m.bdonline.co.uk/5066902.article?mobilesite=enabled</link>
-            <guid isPermaLink="false">ec5ee6b1-96b7-43b6-86dd-db7b353d3572</guid>
-            <pubDate>Tue, 26 Apr 2016 01:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
