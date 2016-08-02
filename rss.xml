@@ -4,7 +4,7 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 03:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 03:44:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431</link>
             <guid isPermaLink="false">3082fd87-9f94-4d4e-8773-be6e82c7899e</guid>
             <pubDate>Fri, 29 Apr 2016 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Model 3 exclusive leaked specs: 0-60 under 4 sec fast and 300+ mile range options (Update: Base 6 sec 0-60 and 215 mile range)]]></title>
+            <description><![CDATA[<article><h1>Tesla Model 3 exclusive leaked specs: 0-60 under 4 sec fast and 300+ mile range options (Update: Base 6 sec 0-60 and 215 mile range)</h1><p>Update: Tesla has now announced specs for the base model which will be 215 mile range and a 0-60 time of under 6 seconds. We're about 24 hours away from the Model 3 unveil and it's time for everyone to show their cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cb192fb35f21e57a2b200daa61ce624bf6efbbb.jpg"></article>]]></description>
+            <link>http://electrek.co/2016/03/30/tesla-model-3-specs/</link>
+            <guid isPermaLink="false">6bf4cc31-77b1-41eb-82af-63bb33807f2e</guid>
+            <pubDate>Tue, 02 Aug 2016 03:43:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tesla and SolarCity Agree to $2.6 Billion Merger Deal]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>You Can Turn A $2000 Shipping Container Into An Epic Off-Grid Home</h1><p>You Can Turn A $2000 Shipping Container Into An Epic Off-Grid Home http://flip.it/YdW0a</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5add716a6844fffcbbfb7a87c20d7d3966197d8d.jpg"></article>]]></description>
             <link>http://flip.it/YdW0a</link>
             <guid isPermaLink="false">44e10c9b-0813-4190-a968-90ac677184ec</guid>
-            <pubDate>Fri, 29 Apr 2016 03:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian researchers develop breakthrough in solar technology]]></title>
-            <description><![CDATA[<article><h1>Australian researchers develop breakthrough in solar technology</h1><p>'Zero-energy' buildings-which generate as much power as they consume-are now much closer after a team at Australia's University of New South Wales achieved the world's highest efficiency using flexible solar cells that are non-toxic and cheap to make.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fcc4ba8f19c3aa472b915910ae64a03be076466.jpg"></article>]]></description>
-            <link>http://3tags.org/article/australian-researchers-develop-breakthrough-in-solar-technology</link>
-            <guid isPermaLink="false">e5b10c0a-bf64-4fa2-8ede-9ff2a17b3cc8</guid>
             <pubDate>Fri, 29 Apr 2016 03:01:11 GMT</pubDate>
         </item>
     </channel>
