@@ -4,7 +4,7 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 03:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 03:18:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
@@ -19,6 +19,20 @@
             <link>urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431</link>
             <guid isPermaLink="false">3082fd87-9f94-4d4e-8773-be6e82c7899e</guid>
             <pubDate>Fri, 29 Apr 2016 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Beautiful #Arctic evening! Check out the newest video update from the field at http://thechangingearth.com/video-update-4-mountains-to-ocean/ ...pic.twitter.com/fV6wxj3GX5" src="https://pbs.twimg.com/media/ChLLf-bVEAEQr-x.jpg:large">]]></description>
+            <link>https://www.twitter.com/chasingseals/status/725866320961622017/photo/1</link>
+            <guid isPermaLink="false">6d41e79a-8ed1-408b-a374-7a39ba288860</guid>
+            <pubDate>Tue, 02 Aug 2016 03:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA's 3D-Printed Rocket Engine Spews Fire and 20,000 Pounds of Thrust]]></title>
+            <description><![CDATA[<article><h1>NASA's 3D-Printed Rocket Engine Spews Fire and 20,000 Pounds of Thrust</h1><p>This NASA rocket is, bewilderingly, mainly built from 3D-printed parts. And yet pumped full of liquid hydrogen and oxygen it spews flame and generates an insane 20,000 pounds of thrust. NASA has been developing 3D-printed rocket engines for a while now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3225b642897d8a5a250955ce32f8885ad6cbbe6c.jpg"></article>]]></description>
+            <link>http://gizmodo.com/nasas-3d-printed-rocket-engine-spews-fire-and-20-000-po-1748657671</link>
+            <guid isPermaLink="false">fb59946f-4da1-413a-be7d-e6a7f15b2498</guid>
+            <pubDate>Tue, 02 Aug 2016 03:17:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parts Of Persian Gulf Could Be Too Hot For Humans By Century's End]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.archdaily.com/412803/omnibus-house-gubbins-arquitectos/</link>
             <guid isPermaLink="false">e20aef01-0ab8-4f63-abda-0511ef6cbeaa</guid>
             <pubDate>Tue, 26 Apr 2016 01:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sainsbury's supermarket to be powered entirely by its own food waste]]></title>
-            <description><![CDATA[<article><h1>Sainsbury's supermarket to be powered entirely by its own food waste</h1><p>Environment It's an unfortunate fact that every day around the world, supermarkets throw out tons of food that has spoiled before it could be purchased. While it would be best if that spoilage could be avoided in the first place, British grocery chain Sainsbury's is taking what might be the next-best approach - it's about to start using that unsellable food to power one of its stores.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dc21ec1bacb0a396631750d30162fd939cde800.jpg"></article>]]></description>
-            <link>http://www.gizmag.com/sainsburys-food-waste-anaerobic-digester/33084/</link>
-            <guid isPermaLink="false">bd50a068-5c98-4e29-b30e-1627fc13d8a3</guid>
-            <pubDate>Tue, 26 Apr 2016 01:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WELL Building Standard Officially Launches]]></title>
-            <description><![CDATA[<article><h1>WELL Building Standard Officially Launches</h1><p>Enhancing people's health and wellness in the built environment is the focus of the WELL standard from the International Well Building Institute.By Tristan Roberts and Paula MeltonThe International Well Building Institute (IWBI) officially launched the WELL Building Standard at its inaugural WELL Building Symposium in New Orleans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7516a8a7e0d4e49cb902b674c0e7fe5899a2518f.png"></article>]]></description>
-            <link>https://www2.buildinggreen.com/article/well-building-standard-officially-launches?mc_cid=79002cb19c&amp;mc_eid=299f673c82</link>
-            <guid isPermaLink="false">966277e6-ee96-4f6a-a014-cc3810f0e583</guid>
-            <pubDate>Tue, 26 Apr 2016 01:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
