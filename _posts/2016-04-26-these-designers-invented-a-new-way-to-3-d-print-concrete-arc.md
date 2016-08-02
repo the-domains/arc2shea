@@ -26,8 +26,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.fastcodesign.com/3055864/these-architects-are-using-a-robotic-arm-to-redefine-3-d-printed-architecture-should-look-us/1
 title: These Designers Invented A New Way To 3-D Print Concrete Architecture
-datePublished: '2016-08-02T03:43:46.196Z'
-dateModified: '2016-08-02T03:43:46.115Z'
+datePublished: '2016-08-02T04:11:29.659Z'
+dateModified: '2016-08-02T04:11:29.474Z'
 sourcePath: >-
   _posts/2016-04-26-these-designers-invented-a-new-way-to-3-d-print-concrete-arc.md
 via: {}
