@@ -4,8 +4,15 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 04:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 04:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tesla and SolarCity Agree to $2.6 Billion Merger Deal]]></title>
+            <description><![CDATA[<article><h1>Tesla and SolarCity Agree to $2.6 Billion Merger Deal</h1><p>Tesla Motors Inc. on Monday said it had reached a deal to buy SolarCity Corp., combining Elon Musk's electric-car and solar-energy companies. The all-stock deal values SolarCity at about $2.6 billion. SolarCity stockholders will receive 0.11 shares of Tesla for each SolarCity share, valuing them at $25.83 apiece, according to Friday's closing...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d686e7c529b1fa87969859ab8a0ac7/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-PE809_0801te_G_20160801071722.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/tesla-and-solarcity-agree-to-2-6-billion-merger-deal-1470050724?mod=LS1</link>
+            <guid isPermaLink="false">86c49f84-1353-4e3c-ad74-b6b732820230</guid>
+            <pubDate>Tue, 02 Aug 2016 04:15:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Solar-Powered Engine Can Be Made With A 3D Printer]]></title>
             <description><![CDATA[<article><h1>This Solar-Powered Engine Can Be Made With A 3D Printer</h1><p>You can 3D print plenty of things these days, from candy to a model of an asteroid. And now, with the help of a 3D printer, you can produce most of the parts for a pretty simple engine. Recently, German engineer Andreas Haeuser built a solar-powered Stirling engine using almost entirely 3D printed parts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd95eff288547489f1e0bf6bb3dea00a6531c985.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.ttjonline.com/news/timber-towers-could-transform-londons-skyline-4859946/</link>
             <guid isPermaLink="false">774c0ac2-3d48-4661-a0dc-023b6dd23497</guid>
             <pubDate>Tue, 02 Aug 2016 03:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Designers Invented A New Way To 3-D Print Concrete Architecture]]></title>
-            <description><![CDATA[<article><h1>These Designers Invented A New Way To 3-D Print Concrete Architecture</h1><p>While studying together at the Bartlett School of Architecture, masters students Francesca Camilleri, Nadia Doukhi, Alvaro Lopez Rodriguez and Roman Strukov all agreed that 3-D printing was the future of their chosen trade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ed51bf1aa5fd9dd03256e39e409f0a44e53b477.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3055864/these-architects-are-using-a-robotic-arm-to-redefine-3-d-printed-architecture-should-look-us/1</link>
-            <guid isPermaLink="false">0b43aeb8-5770-47cf-ac47-75dce0084ea9</guid>
-            <pubDate>Tue, 02 Aug 2016 03:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
