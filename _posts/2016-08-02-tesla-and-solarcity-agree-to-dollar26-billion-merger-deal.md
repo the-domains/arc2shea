@@ -35,11 +35,11 @@ app_links:
 isBasedOnUrl: >-
   http://www.wsj.com/articles/tesla-and-solarcity-agree-to-2-6-billion-merger-deal-1470050724?mod=LS1
 title: Tesla and SolarCity Agree to $2.6 Billion Merger Deal
-datePublished: '2016-08-02T03:40:09.256Z'
-dateModified: '2016-08-02T03:39:48.963Z'
+datePublished: '2016-08-02T04:15:55.535Z'
+dateModified: '2016-08-02T04:15:55.225Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-02-tesla-and-solarcity-agree-to-dollar26-billion-merger-deal.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
