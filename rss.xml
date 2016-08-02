@@ -4,7 +4,7 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 03:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 03:44:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431</link>
             <guid isPermaLink="false">3082fd87-9f94-4d4e-8773-be6e82c7899e</guid>
             <pubDate>Fri, 29 Apr 2016 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Beautiful #Arctic evening! Check out the newest video update from the field at http://thechangingearth.com/video-update-4-mountains-to-ocean/ ...pic.twitter.com/fV6wxj3GX5" src="https://pbs.twimg.com/media/ChLLf-bVEAEQr-x.jpg:large">]]></description>
+            <link>https://www.twitter.com/chasingseals/status/725866320961622017/photo/1</link>
+            <guid isPermaLink="false">0877834f-f5c5-4ccd-b12c-406d7c0bce63</guid>
+            <pubDate>Tue, 02 Aug 2016 03:43:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Solar-Powered Engine Can Be Made With A 3D Printer]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.twitter.com/chasingseals/status/725866320961622017/photo/1</link>
             <guid isPermaLink="false">6d41e79a-8ed1-408b-a374-7a39ba288860</guid>
             <pubDate>Tue, 02 Aug 2016 03:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA's 3D-Printed Rocket Engine Spews Fire and 20,000 Pounds of Thrust]]></title>
-            <description><![CDATA[<article><h1>NASA's 3D-Printed Rocket Engine Spews Fire and 20,000 Pounds of Thrust</h1><p>This NASA rocket is, bewilderingly, mainly built from 3D-printed parts. And yet pumped full of liquid hydrogen and oxygen it spews flame and generates an insane 20,000 pounds of thrust. NASA has been developing 3D-printed rocket engines for a while now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3225b642897d8a5a250955ce32f8885ad6cbbe6c.jpg"></article>]]></description>
-            <link>http://gizmodo.com/nasas-3d-printed-rocket-engine-spews-fire-and-20-000-po-1748657671</link>
-            <guid isPermaLink="false">fb59946f-4da1-413a-be7d-e6a7f15b2498</guid>
-            <pubDate>Tue, 02 Aug 2016 03:17:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
