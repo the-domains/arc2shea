@@ -4,7 +4,7 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 03:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 03:44:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
@@ -19,6 +19,13 @@
             <link>urn:uuid:9e6e4713-0990-4664-8528-6f9968f6d431</link>
             <guid isPermaLink="false">3082fd87-9f94-4d4e-8773-be6e82c7899e</guid>
             <pubDate>Fri, 29 Apr 2016 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timber towers could transform London's skyline]]></title>
+            <description><![CDATA[<article><h1>Timber towers could transform London's skyline</h1><p>Researchers have presented plans for London's first timber skyscraper to the Mayor of London Boris Johnson. The conceptual plans for an 80-storey, 300m high wooden building integrated within the Barbican, have been drawn up by researchers from Cambridge University's department of architecture, working with PLP Architecture and engineers Smith and Wallwork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e43749f1faa20720092b0748403780b932119da.jpg"></article>]]></description>
+            <link>http://www.ttjonline.com/news/timber-towers-could-transform-londons-skyline-4859946/</link>
+            <guid isPermaLink="false">774c0ac2-3d48-4661-a0dc-023b6dd23497</guid>
+            <pubDate>Tue, 02 Aug 2016 03:43:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[These Designers Invented A New Way To 3-D Print Concrete Architecture]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.huffpost.com/us/entry/parts-of-persian-gulf-could-be-too-hot-for-humans-by-centurys-end_us_562e8d32e4b00aa54a4ac233</link>
             <guid isPermaLink="false">1e2359fa-cd6d-46e1-834a-9e187e899677</guid>
             <pubDate>Tue, 02 Aug 2016 03:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Montreal to lead the way with downtown curbside electric car charging stations, mayor says]]></title>
-            <description><![CDATA[<article><h1>Montreal to lead the way with downtown curbside electric car charging stations, mayor says</h1><p>Montreal and the province of Quebec have unveiled plans to install 106 charging stations for electric cars around the city by next spring. Mayor Denis Coderre says Montreal will be a leader among Canadian cities. He said having curbside stations downtown will make Montreal stand out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b211c41691287ac7e561e2c6cd13d601b85a175f.jpg"></article>]]></description>
-            <link>http://www.cbc.ca/beta/news/canada/montreal/montreal-electric-car-stations-1.3287858</link>
-            <guid isPermaLink="false">02a7ebb4-81ee-4bff-97d7-e37df83e331c</guid>
-            <pubDate>Tue, 02 Aug 2016 03:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
