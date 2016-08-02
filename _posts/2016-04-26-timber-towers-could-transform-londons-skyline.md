@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.ttjonline.com/news/timber-towers-could-transform-londons-skyline-4859946/
 title: Timber towers could transform London's skyline
-datePublished: '2016-08-02T03:43:50.935Z'
-dateModified: '2016-08-02T03:43:50.812Z'
+datePublished: '2016-08-02T04:11:05.752Z'
+dateModified: '2016-08-02T04:11:05.661Z'
 sourcePath: _posts/2016-04-26-timber-towers-could-transform-londons-skyline.md
 via: {}
 starred: false
