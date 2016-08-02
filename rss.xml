@@ -4,8 +4,15 @@
         <description><![CDATA[Arc2Shea]]></description>
         <link>https://thegrid.ai/arc2shea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 04:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 04:15:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arc2shea/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Solar-Powered Engine Can Be Made With A 3D Printer]]></title>
+            <description><![CDATA[<article><h1>This Solar-Powered Engine Can Be Made With A 3D Printer</h1><p>You can 3D print plenty of things these days, from candy to a model of an asteroid. And now, with the help of a 3D printer, you can produce most of the parts for a pretty simple engine. Recently, German engineer Andreas Haeuser built a solar-powered Stirling engine using almost entirely 3D printed parts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd95eff288547489f1e0bf6bb3dea00a6531c985.jpg"></article>]]></description>
+            <link>http://www.popsci.com/solar-powered-engine-can-be-made-3d-printer?dom=fb&amp;src=SOC</link>
+            <guid isPermaLink="false">7a19c02e-f9d9-4806-af88-44019c6fda2f</guid>
+            <pubDate>Tue, 02 Aug 2016 04:15:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A 170-Mile Trek Across the Arctic to Highlight Climate Change]]></title>
             <description><![CDATA[<article><h1>A 170-Mile Trek Across the Arctic to Highlight Climate Change</h1><p>University of Minnesota professor Aaron Doering joins Lunch Break with Tanya Rivero from Arctic Bay, Canada in the midst of a 170-mile journey across Canada and the Arctic to promote awareness of rapid environmental changes facing the region. Photo: Aaron Doering / LT Media Lab</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0fc048d8cb274d2e47553eff806b551eef17ee0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.fastcodesign.com/3055864/these-architects-are-using-a-robotic-arm-to-redefine-3-d-printed-architecture-should-look-us/1</link>
             <guid isPermaLink="false">0b43aeb8-5770-47cf-ac47-75dce0084ea9</guid>
             <pubDate>Tue, 02 Aug 2016 03:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Model 3 exclusive leaked specs: 0-60 under 4 sec fast and 300+ mile range options (Update: Base 6 sec 0-60 and 215 mile range)]]></title>
-            <description><![CDATA[<article><h1>Tesla Model 3 exclusive leaked specs: 0-60 under 4 sec fast and 300+ mile range options (Update: Base 6 sec 0-60 and 215 mile range)</h1><p>Update: Tesla has now announced specs for the base model which will be 215 mile range and a 0-60 time of under 6 seconds. We're about 24 hours away from the Model 3 unveil and it's time for everyone to show their cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cb192fb35f21e57a2b200daa61ce624bf6efbbb.jpg"></article>]]></description>
-            <link>http://electrek.co/2016/03/30/tesla-model-3-specs/</link>
-            <guid isPermaLink="false">6bf4cc31-77b1-41eb-82af-63bb33807f2e</guid>
-            <pubDate>Tue, 02 Aug 2016 03:43:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
