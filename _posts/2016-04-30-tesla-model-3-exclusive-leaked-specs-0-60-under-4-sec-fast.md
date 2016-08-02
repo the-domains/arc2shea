@@ -30,8 +30,8 @@ isBasedOnUrl: 'http://electrek.co/2016/03/30/tesla-model-3-specs/'
 title: >-
   Tesla Model 3 exclusive leaked specs: 0-60 under 4 sec fast and 300+ mile
   range options (Update: Base 6 sec 0-60 and 215 mile range)
-datePublished: '2016-08-02T03:43:42.089Z'
-dateModified: '2016-08-02T03:43:42.010Z'
+datePublished: '2016-08-02T04:11:21.294Z'
+dateModified: '2016-08-02T04:11:21.206Z'
 sourcePath: >-
   _posts/2016-04-30-tesla-model-3-exclusive-leaked-specs-0-60-under-4-sec-fast.md
 via: {}
