@@ -30,11 +30,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.popsci.com/solar-powered-engine-can-be-made-3d-printer?dom=fb&src=SOC
 title: This Solar-Powered Engine Can Be Made With A 3D Printer
-datePublished: '2016-08-02T03:43:55.683Z'
-dateModified: '2016-08-02T03:43:55.563Z'
+datePublished: '2016-08-02T04:15:25.219Z'
+dateModified: '2016-08-02T04:15:24.601Z'
 sourcePath: _posts/2016-04-26-this-solar-powered-engine-can-be-made-with-a-3d-printer.md
 via: {}
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
